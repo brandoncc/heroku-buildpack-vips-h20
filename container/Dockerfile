@@ -1,4 +1,4 @@
-FROM heroku/heroku:18
+FROM heroku/heroku:20
 
 ARG VIPS_VERSION
 

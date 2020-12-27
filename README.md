@@ -1,5 +1,9 @@
-heroku-buildpack-vips
+heroku-buildpack-vips-h20
 =====================
+
+A VIPS buildpack for the heroku-20 stack.
+
+Current build version: 8.10.5
 
 Important notes:
 
