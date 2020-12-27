@@ -42,4 +42,4 @@ https://github.com/brandoncc/heroku-buildpack-vips-h20
 VIPS_VERSION=x.y.z ./build.sh
 ```
 
-After building a tar file, it will be copied to the `build` directory. Then you should commit this changes to git.
+After building a tar file, it will be copied to the `build` directory. Then you should commit this change to git.
