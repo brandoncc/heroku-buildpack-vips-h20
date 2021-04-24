@@ -1,4 +1,6 @@
-heroku-buildpack-vips (heroku-20 version -- heroku-18 version [available here](https://github.com/brandoncc/heroku-buildpack-vips-h18))
+# Deprecated, [heroku-buildpack-vips](https://github.com/brandoncc/heroku-buildpack-vips-h18) now supports all modern buildpacks
+
+## heroku-buildpack-vips (heroku-20 version -- heroku-18 version [available here](https://github.com/brandoncc/heroku-buildpack-vips-h18))
 =====================
 
 A VIPS buildpack for the heroku-20 stack.
